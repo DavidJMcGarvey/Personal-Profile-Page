@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/jaylen_smoke.jpeg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -159,6 +159,9 @@ a.linkedin {
 }
 a.github {
   background-image: url(images/github.svg);
+}
+a.portfolio {
+  background-image: url(images/computer-icon.png);
 }
 a.social:hover {
   opacity: 1;
