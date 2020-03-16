@@ -74,7 +74,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.8) rotate(360deg);
 }
 .tag {
   background-color: #efefef;
@@ -206,5 +206,9 @@ a.social:hover {
     margin: 40px auto;
   }
 
+}
+
+h2 {
+  text-align: center;
 }
 
